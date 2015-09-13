@@ -5,8 +5,10 @@ So I thought it would be interesting to offer that instead of paying for the con
 
 It worked out very well. I got User Interface + Python work for my portfolio, she gets to build her collection, and we could release the code to the Original Xbox hackers community. Because they have done so much great work!! :)
 
-Original-Xbox-Game-Installer
-Python 2.7 Script for XBMC4Xbox that gets, then displays, a list of games and where to download each game, from nolenfelten.github.io/xbmcfetchme.txt
+<h2>Original-Xbox-Game-Installer</h2>
+
+This is a Script written in Python(2.7), developed for XBMC4Xbox that fetchs, then displays, a list of games and where to download each game, from nolenfelten.github.io/xbmcfetchme.txt
+
 <p><img src=http://i.imgur.com/jl82oRD.png></p>
 <p><img src=http://i.imgur.com/KgKsN7O.png></p>
 <p><img src=http://i.imgur.com/3TFOfrh.png></p>
